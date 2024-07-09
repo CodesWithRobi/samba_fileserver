@@ -57,15 +57,15 @@ Replace `<username>` with your actual username.
 
 ### Step 7: Verify Connectivity
 
-Use the `ifconfig` command to check your IP address and ensure your devices can connect to the Samba share. You can verify the setup on your iPad and Android devices.
+Use the `ifconfig` command to check your IP address and ensure your devices can connect to the Samba share. You can verify the setup on your iOS, windows and Android devices.
 
 * * *
 
 Screenshots
 -----------
 <div style="display:flex">
- <img src="assets/mobile_screenshot.jpg" height="500"/>
- <img src="assets/screenshot.png" height="500"/>
+ <img src="assets/mobile_screenshot.jpg" height="400"/>
+ <img src="assets/screenshot.png" height="400"/>
 </div>
 
 * * *
