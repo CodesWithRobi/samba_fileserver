@@ -48,6 +48,8 @@ Add the following lines at the end of the file to create a new share:
 
 `sudo smbpasswd -a <username>`
 
+Then enter a password we would be using this to login from different devices.
+
 Replace `<username>` with your actual username.
 
 ### Step 7: Verify Connectivity
@@ -58,8 +60,10 @@ Use the `ifconfig` command to check your IP address and ensure your devices can 
 
 Screenshots
 -----------
-
-<>
+<div style="display:flex">
+ <img src="assets/mobile_screenshot.jpg" height="500"/>
+ <img src="assets/screenshot.png" height="500"/>
+</div>
 
 * * *
 
