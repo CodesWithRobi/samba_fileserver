@@ -39,6 +39,9 @@ Add the following lines at the end of the file to create a new share:
 
 `sudo systemctl restart smbd`
 
+You can check status by 'systemctl status smbd'
+<img src="./assets/smbdstatus.png" height="500"/>
+
 ### Step 5: Allow Samba Through Firewall
 
  
